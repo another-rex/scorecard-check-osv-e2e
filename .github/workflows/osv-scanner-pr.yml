@@ -26,4 +26,4 @@ permissions: read-all
 
 jobs:
   scan-pr-attempt:
-    uses: "another-rex/osv-scanner/.github/workflows/osv-scanner-reusable-pr.yml@attempt-at-multiline-action"
+    uses: "google/osv-scanner/.github/workflows/osv-scanner-reusable-pr.yml@main"
